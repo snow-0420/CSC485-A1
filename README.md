@@ -1,2 +1,2 @@
 # CSC485-A1
-Dependency Parsing (using PyTorch)
+Build neural networks to perform transition-based dependency parsing and graph-based dependency parsing. 
